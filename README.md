@@ -27,7 +27,7 @@ As a user... ( I can-- )
 
 
 
-<!-- TECHNOCAL FUNCTIONALITIES) -->
+<!-- TECHNICAL FUNCTIONALITIES) -->
 
 
 - [ - ] 
